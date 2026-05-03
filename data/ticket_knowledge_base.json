@@ -1,0 +1,854 @@
+[
+  {
+    "subject": "Unable to login to my account",
+    "message": "I've been trying to login to my account for the past hour but keep getting an error message saying 'Invalid credentials'. I'm sure my password is correct as I just reset it yesterday.",
+    "resolution": "Please check if Caps Lock is on and ensure you're using the correct email address. If the issue persists, click on 'Forgot Password' to reset your password again. Also, try clearing your browser cache and cookies, or use a different browser.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "I can't log in",
+    "message": "I can't log in to my account, it says invalid credentials but I'm sure my password is right.",
+    "resolution": "Please check if Caps Lock is on and ensure you're using the correct email address. If the issue persists, click on 'Forgot Password' to reset your password again. Also, try clearing your browser cache and cookies, or use a different browser.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login problem",
+    "message": "I have a login problem, the system won't let me in even though I know my password is correct. It keeps showing wrong password error.",
+    "resolution": "Please check if Caps Lock is on and ensure you're using the correct email address. If the issue persists, click on 'Forgot Password' to reset your password again. Also, try clearing your browser cache and cookies, or use a different browser.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Can't access my account",
+    "message": "I'm unable to access my account. Every time I try to sign in it tells me my credentials are wrong. I've tried multiple times.",
+    "resolution": "Please check if Caps Lock is on and ensure you're using the correct email address. If the issue persists, click on 'Forgot Password' to reset your password again. Also, try clearing your browser cache and cookies, or use a different browser.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Password not working",
+    "message": "My password is not working when I try to log in. I changed it recently but the new one doesn't seem to work either.",
+    "resolution": "Please check if Caps Lock is on and ensure you're using the correct email address. If the issue persists, click on 'Forgot Password' to reset your password again. Also, try clearing your browser cache and cookies, or use a different browser.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Payment not processed",
+    "message": "I tried to make a payment for my subscription but the transaction failed. My card was charged but the subscription is still showing as inactive.",
+    "resolution": "Please check your bank statement to confirm if the transaction was completed. If the amount was deducted, please provide the transaction ID and we'll manually activate your subscription. This usually happens due to a delay in payment gateway processing.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Payment failed but money was taken",
+    "message": "I paid for a subscription but the money was deducted from my bank and the subscription is still not active. Please help.",
+    "resolution": "Please check your bank statement to confirm if the transaction was completed. If the amount was deducted, please provide the transaction ID and we'll manually activate your subscription. This usually happens due to a delay in payment gateway processing.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Subscription not active after payment",
+    "message": "I made a payment but my subscription still shows inactive. The money was taken from my account.",
+    "resolution": "Please check your bank statement to confirm if the transaction was completed. If the amount was deducted, please provide the transaction ID and we'll manually activate your subscription. This usually happens due to a delay in payment gateway processing.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Profile picture not uploading",
+    "message": "I'm trying to update my profile picture but it keeps failing. I've tried multiple images in different formats (JPG, PNG) but none of them work.",
+    "resolution": "Please ensure your image is under 2MB and in JPG, PNG, or GIF format. Also, try using a different browser or the mobile app. If the issue persists, please send us the image and we'll upload it for you manually.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Can't upload my photo",
+    "message": "I'm trying to change my profile photo but it won't upload. I tried jpg and png but nothing works.",
+    "resolution": "Please ensure your image is under 2MB and in JPG, PNG, or GIF format. Also, try using a different browser or the mobile app. If the issue persists, please send us the image and we'll upload it for you manually.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Email notifications not received",
+    "message": "I'm not receiving any email notifications for new messages or updates. I've checked my spam folder but there's nothing there.",
+    "resolution": "Please verify that your email address is correct in your account settings. Also, check if you've accidentally disabled email notifications. If everything looks correct, try adding our email address to your contacts to ensure emails aren't blocked.",
+    "category": "Account"
+  },
+  {
+    "subject": "Not getting emails",
+    "message": "I am not getting any notification emails from the platform. I checked spam and junk folders but nothing is there.",
+    "resolution": "Please verify that your email address is correct in your account settings. Also, check if you've accidentally disabled email notifications. If everything looks correct, try adding our email address to your contacts to ensure emails aren't blocked.",
+    "category": "Account"
+  },
+  {
+    "subject": "Feature request: Dark mode",
+    "message": "I would love to see a dark mode option in the application. It would be great for using the app at night without straining my eyes.",
+    "resolution": "Thank you for your suggestion! We've added this to our feature request list. Dark mode is currently in development and should be available in the next major update scheduled for next month.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "How to change my password",
+    "message": "I want to change my password but can't find the option in my account settings.",
+    "resolution": "Go to your account settings, click on 'Security', then select 'Change Password'. You'll need to enter your current password and then your new password twice.",
+    "category": "Account"
+  },
+  {
+    "subject": "Where to reset password",
+    "message": "How do I reset or change my password? I can't find the option anywhere.",
+    "resolution": "Go to your account settings, click on 'Security', then select 'Change Password'. You'll need to enter your current password and then your new password twice.",
+    "category": "Account"
+  },
+  {
+    "subject": "please i have a wifi problem",
+    "message": "i have a problem with wifi i can t fix it with your platform",
+    "resolution": "just restart the pc",
+    "category": "billing"
+  },
+  {
+    "subject": "Page loading slow",
+    "message": "The website is running very slowly for me. Pages take forever to load and sometimes time out completely.",
+    "resolution": "Please try the following: 1) Clear your browser cache and cookies, 2) Try a different browser, 3) Check your internet connection speed, 4) Disable any browser extensions that might interfere. If the problem persists, it may be a temporary server issue and should resolve within a few hours.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Website is slow",
+    "message": "Everything loads very slow on your site, pages take too long.",
+    "resolution": "Please try the following: 1) Clear your browser cache and cookies, 2) Try a different browser, 3) Check your internet connection speed, 4) Disable any browser extensions that might interfere. If the problem persists, it may be a temporary server issue and should resolve within a few hours.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Account locked out",
+    "message": "My account has been locked after too many failed login attempts. How can I unlock it?",
+    "resolution": "Your account is temporarily locked for security reasons after multiple failed login attempts. Please wait 30 minutes and try again, or use the 'Forgot Password' link to reset your password and unlock your account immediately.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "My account is blocked",
+    "message": "I tried to log in many times and now my account is blocked. Please help me unlock it.",
+    "resolution": "Your account is temporarily locked for security reasons after multiple failed login attempts. Please wait 30 minutes and try again, or use the 'Forgot Password' link to reset your password and unlock your account immediately.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "i want to delete my account",
+    "message": "pleasse i want to delete my account and redo another one",
+    "resolution": "go to seettings and there u find a dele button it s so easy big love",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Two-factor authentication code not working",
+    "message": "When I try to log in, the two-factor authentication code I receive via SMS doesn't work. It keeps saying invalid code.",
+    "resolution": "Please ensure you are entering the most recent code sent to your phone, as older codes expire quickly. Also verify that your device time is set automatically. If the issue continues, try requesting a new code or switch to email-based verification.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "OTP not valid",
+    "message": "The OTP code sent to my phone is not valid even though I type it immediately.",
+    "resolution": "Please make sure you are using the latest OTP sent and that your phone's clock is set automatically. If the problem persists, wait 2 minutes and request a new code.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Refund request",
+    "message": "I accidentally purchased the yearly subscription instead of the monthly one. I would like a refund.",
+    "resolution": "We understand mistakes happen. Please provide your order ID and confirm the purchase date. If the request is within 14 days of purchase, we will process a full refund according to our refund policy.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Charged twice for subscription",
+    "message": "I noticed that I was charged two times for the same subscription this month.",
+    "resolution": "We apologize for the inconvenience. Please send us the transaction IDs for both charges. If duplicate billing is confirmed, one of the charges will be refunded within 5-7 business days.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Invoice download not working",
+    "message": "I'm trying to download my invoice but the download button does nothing.",
+    "resolution": "Please try clearing your browser cache or using another browser. If the issue persists, provide your billing email and we will send the invoice directly to you.",
+    "category": "Billing"
+  },
+  {
+    "subject": "App crashing on startup",
+    "message": "Every time I open the app, it crashes immediately after the loading screen.",
+    "resolution": "Please update the app to the latest version from the app store. If it is already updated, try uninstalling and reinstalling the app. Restart your device before opening it again.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Error 500 on dashboard",
+    "message": "When I access my dashboard, I get a 500 internal server error.",
+    "resolution": "This error usually indicates a temporary server issue. Please wait a few minutes and refresh the page. If it continues, log out and log back in or contact support with a screenshot of the error.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Data not syncing between devices",
+    "message": "My data updates on my phone but not on my laptop.",
+    "resolution": "Please ensure you are logged into the same account on both devices. Also check your internet connection and manually refresh the app. Logging out and back in may also trigger synchronization.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Cannot change email address",
+    "message": "I want to update my email address but the system won't let me change it.",
+    "resolution": "For security reasons, email changes require verification. Please go to Account Settings > Profile and request an email update. You will receive a confirmation link to your new email address.",
+    "category": "Account"
+  },
+  {
+    "subject": "Username already taken",
+    "message": "When I try to change my username, it says it's already taken.",
+    "resolution": "Usernames must be unique. Please try adding numbers or special characters to create a unique username.",
+    "category": "Account"
+  },
+  {
+    "subject": "Add more payment methods",
+    "message": "It would be great if you could add PayPal as a payment option.",
+    "resolution": "Thank you for your suggestion. We are currently evaluating additional payment methods including PayPal. Your feedback has been forwarded to our product team.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Export data feature request",
+    "message": "I would like the ability to export my data as a CSV file.",
+    "resolution": "Thank you for the suggestion. We have added this to our feature roadmap. Data export functionality is planned for a future update.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Notification settings not saving",
+    "message": "When I disable notifications and click save, they turn back on automatically.",
+    "resolution": "Please try clearing your browser cache and saving the settings again. If the issue persists, try from a different device and inform us of the browser you are using.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Trial period ended too early",
+    "message": "My free trial ended before the 7 days were completed.",
+    "resolution": "Please provide your account email and trial start date. We will review your account and extend the trial if an error occurred.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Cannot upload documents",
+    "message": "I'm trying to upload a PDF document but it keeps failing.",
+    "resolution": "Please ensure the file size is under 5MB and in PDF format. Try renaming the file and uploading again. If it still fails, send us the file for manual upload.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Session keeps expiring",
+    "message": "I get logged out automatically every few minutes.",
+    "resolution": "This may happen due to browser security settings or cookie restrictions. Please enable cookies and disable any privacy extensions temporarily.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "How to upgrade plan",
+    "message": "I want to upgrade from basic to premium but don't know how.",
+    "resolution": "Go to Billing Settings > Subscription Plan and select 'Upgrade'. Choose your desired plan and confirm the payment details.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Search feature not working",
+    "message": "When I search for anything, it shows no results even though I know the data exists.",
+    "resolution": "Please ensure your search filters are not limiting results. Clear filters and try again. If the issue persists, refresh the page or log out and back in.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Account verification email not received",
+    "message": "I signed up but never received the verification email.",
+    "resolution": "Please check your spam or junk folder. If you still cannot find it, click 'Resend Verification Email' on the login page.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Change language option",
+    "message": "How can I change the language of the platform?",
+    "resolution": "You can change the language by going to Settings > Preferences > Language and selecting your preferred language from the dropdown menu.",
+    "category": "Account"
+  },
+  {
+    "subject": "Invalid login credentials",
+    "message": "I am entering the correct password but the system says invalid credentials.",
+    "resolution": "Please verify that Caps Lock is disabled and confirm the email address used. If the issue persists, reset your password using the 'Forgot Password' option.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Cannot sign in after password reset",
+    "message": "I reset my password but I still cannot log into my account.",
+    "resolution": "Make sure you are using the most recent password. Clear your browser cache and try again. If the issue continues, request another password reset.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Account temporarily locked",
+    "message": "My account is locked after multiple failed login attempts.",
+    "resolution": "For security reasons, accounts are locked for 30 minutes after multiple failed attempts. You can wait or reset your password to regain access immediately.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "OTP code expired too quickly",
+    "message": "The verification code expires before I can enter it.",
+    "resolution": "Please request a new code and enter it immediately. Also ensure your device time is set automatically.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Two-factor authentication SMS not received",
+    "message": "I am not receiving the SMS verification code.",
+    "resolution": "Please check your signal strength and confirm your phone number in account settings. You may also try email verification if available.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login page keeps refreshing",
+    "message": "When I try to log in, the page just refreshes and doesn't sign me in.",
+    "resolution": "Enable cookies in your browser settings and disable ad blockers. Then try logging in again.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Verification email link expired",
+    "message": "The email verification link says expired.",
+    "resolution": "Click 'Resend Verification Email' to receive a new valid link.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Session timeout too fast",
+    "message": "I get logged out within a few minutes even when active.",
+    "resolution": "Clear browser cookies and ensure third-party cookie blocking is disabled.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login works on mobile but not desktop",
+    "message": "I can log in on my phone but not on my laptop.",
+    "resolution": "Clear browser cache on your laptop and disable extensions that may interfere with authentication.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Forgot password email not arriving",
+    "message": "I requested a password reset but did not receive the email.",
+    "resolution": "Check your spam folder and confirm the email address entered is correct. Request another reset if necessary.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Cannot login after email change",
+    "message": "I recently changed my email and now I cannot log into my account.",
+    "resolution": "Please ensure you are using the updated email address. If needed, reset your password using the new email.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Authentication error on login",
+    "message": "The system shows authentication failed even though my credentials are correct.",
+    "resolution": "Clear your browser cache and ensure no VPN is interfering with the login process.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Security code invalid",
+    "message": "The security code sent to my email is marked as invalid.",
+    "resolution": "Make sure you are entering the latest code received. Older codes expire automatically.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login button not responding",
+    "message": "When I click login nothing happens.",
+    "resolution": "Disable browser extensions and refresh the page. Try a different browser if necessary.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Too many verification attempts",
+    "message": "I tried entering the code several times and now it won't let me try again.",
+    "resolution": "Wait 15 minutes before requesting a new verification code.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Account disabled",
+    "message": "It says my account has been disabled when I try to log in.",
+    "resolution": "Please contact support to review the status of your account.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login redirect loop",
+    "message": "After logging in, it redirects me back to the login page.",
+    "resolution": "Enable cookies and clear browser cache. This usually fixes redirect loop issues.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Cannot authenticate on new device",
+    "message": "When logging in from a new device it blocks access.",
+    "resolution": "Approve the login attempt from your registered email or complete device verification.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Password reset link not working",
+    "message": "The password reset link leads to an error page.",
+    "resolution": "Request a new reset link and use it within 10 minutes.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login error 401",
+    "message": "I receive a 401 unauthorized error when logging in.",
+    "resolution": "Please verify credentials and clear browser cache. Try again after refreshing the page.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Subscription not upgrading",
+    "message": "I paid to upgrade but my account still shows basic plan.",
+    "resolution": "Please provide the transaction ID so we can manually update your subscription.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Card declined unexpectedly",
+    "message": "My credit card is being declined even though it works elsewhere.",
+    "resolution": "Please contact your bank to confirm there are no restrictions on online transactions.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Auto-renewal failed",
+    "message": "My subscription did not renew automatically.",
+    "resolution": "Ensure your payment method is valid and has sufficient funds.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Incorrect invoice amount",
+    "message": "The invoice amount seems higher than expected.",
+    "resolution": "Please review the invoice details for taxes or add-ons included.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Cannot update payment method",
+    "message": "I cannot change my saved credit card.",
+    "resolution": "Go to Billing Settings and remove the old card before adding a new one.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Payment pending for too long",
+    "message": "My payment shows pending for over 24 hours.",
+    "resolution": "Pending transactions may take 1-3 business days depending on your bank.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Tax added unexpectedly",
+    "message": "I noticed tax added to my subscription.",
+    "resolution": "Taxes are applied based on your billing country regulations.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Upgrade charged wrong amount",
+    "message": "I was charged more than the displayed upgrade price.",
+    "resolution": "Please send your invoice ID so we can verify the charge.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Subscription cancelled accidentally",
+    "message": "I accidentally cancelled my subscription.",
+    "resolution": "You can reactivate your subscription from Billing Settings within 7 days.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Promo code not applying",
+    "message": "My discount code is not working during checkout.",
+    "resolution": "Please verify the promo code validity and expiration date.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Dashboard not loading",
+    "message": "My dashboard remains blank after login.",
+    "resolution": "Refresh the page and clear cache. Disable browser extensions if needed.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Error 404 on profile page",
+    "message": "My profile page shows 404 error.",
+    "resolution": "Log out and log back in. Contact support if the issue persists.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Mobile app freezing",
+    "message": "The mobile app freezes after a few minutes.",
+    "resolution": "Update to the latest version and restart your device.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Notifications delayed",
+    "message": "I receive notifications hours late.",
+    "resolution": "Check notification permissions in your device settings.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Image upload distorted",
+    "message": "Uploaded images appear blurry.",
+    "resolution": "Ensure the image resolution is at least 1080px.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Cannot save changes",
+    "message": "Settings changes are not being saved.",
+    "resolution": "Try refreshing and saving again. Clear browser cache if necessary.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Platform lagging",
+    "message": "The system feels very slow during peak hours.",
+    "resolution": "This may be due to high server load. Please try again later.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Audio not playing",
+    "message": "Embedded audio files do not play.",
+    "resolution": "Check browser sound permissions and ensure volume is not muted.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Video playback error",
+    "message": "Videos show playback failed error.",
+    "resolution": "Ensure your internet speed is stable and refresh the page.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Export function freezing",
+    "message": "When exporting data the page freezes.",
+    "resolution": "Try exporting smaller data sets and clear browser cache.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Change display name",
+    "message": "How can I change my display name?",
+    "resolution": "Go to Profile Settings and update your display name field.",
+    "category": "Account"
+  },
+  {
+    "subject": "Profile info not updating",
+    "message": "I edited my profile but changes do not appear.",
+    "resolution": "Refresh the page and ensure you clicked save.",
+    "category": "Account"
+  },
+  {
+    "subject": "Add secondary email",
+    "message": "Can I add a backup email to my account?",
+    "resolution": "Yes, go to Security Settings and add a secondary email.",
+    "category": "Account"
+  },
+  {
+    "subject": "Remove phone number",
+    "message": "I want to remove my phone number from the account.",
+    "resolution": "Navigate to Security Settings and delete the phone number field.",
+    "category": "Account"
+  },
+  {
+    "subject": "Change timezone",
+    "message": "How do I update my timezone settings?",
+    "resolution": "Go to Preferences and select your correct timezone.",
+    "category": "Account"
+  },
+  {
+    "subject": "Profile picture not saving",
+    "message": "My new profile photo does not save.",
+    "resolution": "Ensure the file size is under 2MB and click save after uploading.",
+    "category": "Account"
+  },
+  {
+    "subject": "Update notification preferences",
+    "message": "I want to receive fewer notifications.",
+    "resolution": "Go to Notification Settings and customize your preferences.",
+    "category": "Account"
+  },
+  {
+    "subject": "Account privacy settings",
+    "message": "How do I make my profile private?",
+    "resolution": "Go to Privacy Settings and enable private profile mode.",
+    "category": "Account"
+  },
+  {
+    "subject": "Download personal data",
+    "message": "I want to download all my account data.",
+    "resolution": "Go to Privacy Settings and request a data export.",
+    "category": "Account"
+  },
+  {
+    "subject": "Deactivate temporarily",
+    "message": "Can I temporarily deactivate my account?",
+    "resolution": "Yes, go to Account Settings and select deactivate account.",
+    "category": "Account"
+  },
+  {
+    "subject": "Add biometric login",
+    "message": "Please add fingerprint login option.",
+    "resolution": "Thank you for your suggestion. Biometric login is being considered for future updates.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Custom themes",
+    "message": "It would be nice to customize the interface theme.",
+    "resolution": "We appreciate your feedback. Theme customization is under review.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Offline mode",
+    "message": "Please allow offline access to saved data.",
+    "resolution": "Offline mode has been added to our product roadmap.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Multi-language support",
+    "message": "Add more language options.",
+    "resolution": "We are expanding language support in upcoming releases.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Keyboard shortcuts",
+    "message": "Add keyboard shortcuts for faster navigation.",
+    "resolution": "Thank you for the idea. We will review this with our UX team.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Login blocked due to suspicious activity",
+    "message": "I received a message saying login blocked due to suspicious activity.",
+    "resolution": "Please verify your identity by resetting your password and reviewing recent login activity.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Cannot login using Google",
+    "message": "Google sign-in option is not working.",
+    "resolution": "Try disconnecting and reconnecting your Google account or log in using email and password.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login captcha not loading",
+    "message": "The captcha does not appear on the login page.",
+    "resolution": "Disable ad blockers and refresh the page.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Reset password page error",
+    "message": "When I click reset password, it shows an error.",
+    "resolution": "Clear your browser cache and try again later.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Device verification failed",
+    "message": "New device verification keeps failing.",
+    "resolution": "Ensure your email is accessible and approve the device verification request.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Account flagged for security review",
+    "message": "My account is under security review and I cannot login.",
+    "resolution": "Please wait 24 hours while our team reviews your account activity.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Biometric login not working",
+    "message": "Fingerprint login stopped working.",
+    "resolution": "Re-enable biometric authentication in app settings.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Login timeout error",
+    "message": "Login attempt times out after entering credentials.",
+    "resolution": "Check internet connection and try again.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Email already verified but cannot access",
+    "message": "My email is verified but I still cannot log in.",
+    "resolution": "Try resetting your password to refresh authentication tokens.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Account requires re-verification",
+    "message": "The system asks me to verify again.",
+    "resolution": "Complete the verification process via email link.",
+    "category": "Authentication"
+  },
+  {
+    "subject": "Subscription downgrade failed",
+    "message": "I tried downgrading my plan but it did not change.",
+    "resolution": "Downgrades take effect at the next billing cycle.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Refund not received yet",
+    "message": "I requested a refund but haven't received it.",
+    "resolution": "Refunds typically take 5-10 business days depending on your bank.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Billing address update issue",
+    "message": "I cannot update my billing address.",
+    "resolution": "Remove saved payment method and re-enter updated details.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Payment gateway error",
+    "message": "Checkout shows payment gateway error.",
+    "resolution": "Try again later or use an alternative payment method.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Subscription auto-renewed unexpectedly",
+    "message": "My subscription renewed without notice.",
+    "resolution": "Auto-renewal is enabled by default. You may disable it in billing settings.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Plan benefits not activated",
+    "message": "Premium features are not unlocked after payment.",
+    "resolution": "Log out and log back in to refresh your subscription status.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Unable to apply student discount",
+    "message": "My student discount code is not accepted.",
+    "resolution": "Verify the discount eligibility requirements and expiration date.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Wrong currency charged",
+    "message": "I was charged in a different currency.",
+    "resolution": "Currency is determined by your billing country settings.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Subscription invoice missing",
+    "message": "I cannot find my latest invoice.",
+    "resolution": "Check billing history in account settings.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Payment confirmation email missing",
+    "message": "I did not receive payment confirmation.",
+    "resolution": "Check spam folder or verify billing email.",
+    "category": "Billing"
+  },
+  {
+    "subject": "Dark mode not applying",
+    "message": "Dark mode does not stay enabled.",
+    "resolution": "Clear cache and ensure settings are saved.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Mobile notifications not working",
+    "message": "Push notifications stopped appearing.",
+    "resolution": "Enable notifications in device settings.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Download button unresponsive",
+    "message": "Clicking download does nothing.",
+    "resolution": "Disable pop-up blockers and refresh page.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Settings page crashes",
+    "message": "Settings page crashes after loading.",
+    "resolution": "Update browser and try again.",
+    "category": "Technical"
+  },
+  {
+    "subject": "API returning error",
+    "message": "API calls are returning 403 error.",
+    "resolution": "Verify API key and permissions.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Sync delay between devices",
+    "message": "Changes do not sync instantly.",
+    "resolution": "Allow a few minutes for synchronization.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Search index outdated",
+    "message": "Search results are outdated.",
+    "resolution": "Refresh page to update search index.",
+    "category": "Technical"
+  },
+  {
+    "subject": "File preview not loading",
+    "message": "Uploaded files do not preview.",
+    "resolution": "Ensure supported file format.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Chart data incorrect",
+    "message": "Dashboard charts show wrong numbers.",
+    "resolution": "Refresh dashboard and verify filters.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Mobile layout broken",
+    "message": "Layout appears broken on mobile.",
+    "resolution": "Update app or use latest browser version.",
+    "category": "Technical"
+  },
+  {
+    "subject": "Change account email confirmation",
+    "message": "I changed my email but did not receive confirmation.",
+    "resolution": "Check spam folder or resend confirmation.",
+    "category": "Account"
+  },
+  {
+    "subject": "Cannot remove old email",
+    "message": "Old email still appears in account.",
+    "resolution": "Ensure new email is verified before removal.",
+    "category": "Account"
+  },
+  {
+    "subject": "Profile bio not saving",
+    "message": "My bio changes disappear.",
+    "resolution": "Click save and refresh page.",
+    "category": "Account"
+  },
+  {
+    "subject": "Account region incorrect",
+    "message": "My account shows wrong country.",
+    "resolution": "Contact support to update region.",
+    "category": "Account"
+  },
+  {
+    "subject": "Avatar upload failed",
+    "message": "Profile avatar fails to upload.",
+    "resolution": "Ensure image under size limit.",
+    "category": "Account"
+  },
+  {
+    "subject": "Change account password frequency",
+    "message": "How often must I change password?",
+    "resolution": "Password changes are recommended every 90 days.",
+    "category": "Account"
+  },
+  {
+    "subject": "Enable two-factor authentication",
+    "message": "How can I activate 2FA?",
+    "resolution": "Go to Security Settings and enable two-factor authentication.",
+    "category": "Account"
+  },
+  {
+    "subject": "Account name typo",
+    "message": "My account name has a typo.",
+    "resolution": "Update your name in profile settings.",
+    "category": "Account"
+  },
+  {
+    "subject": "Privacy data request",
+    "message": "I want a copy of my personal data.",
+    "resolution": "Request data export in privacy settings.",
+    "category": "Account"
+  },
+  {
+    "subject": "Deactivate notifications permanently",
+    "message": "I want to stop all emails.",
+    "resolution": "Disable all email notifications in settings.",
+    "category": "Account"
+  },
+  {
+    "subject": "Add analytics dashboard",
+    "message": "Please add advanced analytics.",
+    "resolution": "Your request has been forwarded to the product team.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Enable dark theme scheduling",
+    "message": "Allow dark mode to auto-enable at night.",
+    "resolution": "This feature is under consideration.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Integration with Slack",
+    "message": "Please integrate Slack notifications.",
+    "resolution": "Integration requests are being reviewed.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Add bulk edit option",
+    "message": "We need bulk edit functionality.",
+    "resolution": "Bulk actions are planned for a future release.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "Add report scheduling",
+    "message": "Allow scheduled report generation.",
+    "resolution": "This feature is added to roadmap.",
+    "category": "Feature Request"
+  },
+  {
+    "subject": "i have problem with t he freelancers page",
+    "message": "i have problem with t he freelancers page",
+    "resolution": "just realod the page twice ty",
+    "category": "General"
+  }
+]
