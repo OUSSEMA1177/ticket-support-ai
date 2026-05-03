@@ -61,14 +61,14 @@ pip install -r requirements.txt
 ## Running the Service
 
 ```bash
-python ticket_support_api.py
+python api.py
 ```
 
 Or with uvicorn directly:
 
 ```bash
 cd ai_service
-uvicorn ticket_support_api:app --reload --host 127.0.0.1 --port 8002
+uvicorn api:app --reload --host 127.0.0.1 --port 8002
 ```
 
 The API will be available at: `http://127.0.0.1:8001`
